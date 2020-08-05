@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" name="chromeBrowser(failed)" parallel="tests">
+    <parameter name="browsersNames" value="chrome"/>
+    <classes>
+      <class name="com.Learning.TestCases.Imaritucs_01_CourseSelector">
+        <methods>
+          <include name="reportEnd"/>
+          <include name="TC_02_CourseSelector"/>
+          <include name="browserSetup"/>
+          <include name="reportSetup"/>
+          <include name="browserEnd"/>
+          <include name="getITestReults"/>
+        </methods>
+      </class> <!-- com.Learning.TestCases.Imaritucs_01_CourseSelector -->
+    </classes>
+  </test> <!-- chromeBrowser(failed) -->
+</suite> <!-- Failed suite [Suite] -->

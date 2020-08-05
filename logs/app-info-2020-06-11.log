@@ -1,0 +1,231 @@
+[INFO ] 2020-06-11 10:51:33.114 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 10:51:33.517 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 10:51:33.540 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 10:52:17.394 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 10:52:19.387 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 10:52:19.964 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 10:52:20.030 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 10:54:35.275 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 10:54:35.802 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 10:54:35.833 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 10:55:04.326 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 10:56:26.357 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 10:56:26.366 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 10:56:26.555 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 11:04:32.244 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 11:04:32.852 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 11:04:32.882 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 11:05:00.401 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 11:06:19.824 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 11:06:19.830 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 11:06:20.013 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 11:07:42.446 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 11:07:43.099 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 11:07:43.146 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 11:08:07.439 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 11:09:25.918 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 11:09:26.037 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 11:09:26.229 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 11:50:49.821 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 11:50:50.362 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 11:50:50.400 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 11:51:13.087 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 11:52:25.794 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 11:52:25.808 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 11:52:25.919 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 12:41:03.875 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 12:41:04.646 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 12:41:04.690 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 12:41:31.153 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 12:41:37.651 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 12:41:38.499 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 12:41:38.679 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 12:42:35.723 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 12:42:36.194 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 12:42:36.226 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 12:43:01.073 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 12:43:06.513 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 12:43:06.513 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 12:43:06.576 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 12:47:31.841 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 12:47:32.310 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 12:47:32.340 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 12:48:01.864 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 12:48:16.330 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 12:48:16.333 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 12:48:16.604 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 13:11:50.540 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 13:11:51.066 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 13:11:51.102 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 13:12:19.638 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 13:12:32.995 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 13:12:32.999 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 13:12:33.168 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 14:09:18.010 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 14:09:19.079 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 14:09:19.128 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 14:09:52.063 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:09:58.823 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:10:11.805 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:10:40.912 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:10:47.565 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:13:44.228 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 14:13:44.710 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 14:13:44.741 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 14:14:05.128 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:14:11.238 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:14:23.519 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:14:44.445 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:14:50.638 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:16:44.543 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:17:35.686 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:18:27.394 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:19:18.110 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:20:09.039 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:20:59.884 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:21:00.782 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 14:21:01.343 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 14:27:05.625 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 14:27:06.245 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 14:27:06.287 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 14:27:40.296 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:27:47.672 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:28:00.796 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:28:26.147 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:28:33.010 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:33:41.910 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 14:33:42.426 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 14:33:42.454 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 14:34:11.496 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:34:20.457 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:34:34.943 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 14:34:56.352 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:34:58.468 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 14:34:58.555 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 14:34:58.855 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 18:02:51.546 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 18:02:52.232 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 18:02:52.263 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 18:56:06.366 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 18:56:07.066 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 18:56:07.106 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 18:56:36.171 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:56:45.104 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:56:58.112 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:57:21.035 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 18:58:13.446 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 18:58:13.922 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 18:58:13.952 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 18:58:34.020 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:58:40.989 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:58:53.496 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:59:22.241 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:59:28.087 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 18:59:29.860 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 18:59:32.583 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 18:59:37.449 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:02:45.292 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 19:02:45.890 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 19:02:45.913 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 19:03:26.123 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:03:29.838 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:03:42.884 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:03:57.091 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:04:04.306 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:06:03.123 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:08:07.530 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 19:08:08.114 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 19:08:08.152 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 19:08:31.831 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:08:38.751 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:08:51.056 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:09:13.201 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:09:20.714 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:10:24.923 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:12:18.912 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:13:10.855 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:14:01.556 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:14:52.320 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:15:43.088 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 19:15:44.089 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 19:15:44.416 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 19:17:17.227 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 19:17:17.669 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 19:17:17.700 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 19:17:36.507 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:17:42.413 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:17:54.573 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:18:16.016 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:18:22.868 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:19:25.733 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:20:32.294 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:20:37.116 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:21:42.486 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:22:50.680 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:23:00.251 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 19:23:00.254 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 19:23:00.319 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 21:55:59.019 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 21:55:59.674 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 21:55:59.706 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 21:56:27.866 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 21:56:33.168 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 21:56:34.173 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 21:56:34.462 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 21:57:59.327 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 21:58:00.409 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 21:58:00.472 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 21:58:33.068 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 21:59:48.315 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 21:59:48.332 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 21:59:49.664 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:08:34.340 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:08:34.830 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:08:34.861 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:10:07.393 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:11:40.172 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:11:40.179 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:11:40.404 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:19:00.398 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:19:00.842 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:19:00.873 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:19:56.026 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:21:48.310 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:22:58.994 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:22:58.999 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:22:59.128 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:35:50.520 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:35:51.003 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:35:51.036 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:36:15.900 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 22:36:22.112 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:36:22.116 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:36:22.265 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:38:08.759 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:38:09.196 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:38:09.235 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:38:32.391 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:38:37.906 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:38:37.915 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:38:37.977 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:52:17.519 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:52:18.001 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:52:18.023 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:52:48.878 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:53:39.026 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 22:53:39.745 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:53:39.817 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:55:38.987 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:55:39.459 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:55:39.494 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:56:07.954 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 22:57:38.555 [TestNG-tests-1] Baseclass - TestCases is fail.
+[INFO ] 2020-06-11 22:57:39.318 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 22:57:39.588 [main] Baseclass - Extent report flush is done
+[INFO ] 2020-06-11 22:59:10.160 [main] Baseclass - Extet report setup is execute...
+[INFO ] 2020-06-11 22:59:10.632 [main] Baseclass - extent report setup is done
+[INFO ] 2020-06-11 22:59:10.673 [TestNG-tests-1] Baseclass - Chrome browser is gonna launch.
+[INFO ] 2020-06-11 22:59:34.832 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 23:00:24.573 [TestNG-tests-1] Baseclass - TestCases is pass.
+[INFO ] 2020-06-11 23:00:24.582 [TestNG-tests-1] Baseclass - Browser is closed
+[INFO ] 2020-06-11 23:00:24.701 [main] Baseclass - Extent report flush is done

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">chromeBrowser</a></td><td class="num">1</td><td class="num">0</td><td class="num attn">1</td><td class="num">45,444</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">chromeBrowser &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.Learning.TestCases.Imaritucs_01_CourseSelector</td><td><a href="#m0">reportEnd</a></td><td rowspan="1">1594393219047</td><td rowspan="1">7134</td></tr><tr><th colspan="4">chromeBrowser &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.Learning.TestCases.Imaritucs_01_CourseSelector</td><td><a href="#m1">TC_02_CourseSelector</a></td><td rowspan="1">1594393210566</td><td rowspan="1">7193</td></tr><tr><th colspan="4">chromeBrowser &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.Learning.TestCases.Imaritucs_01_CourseSelector</td><td><a href="#m2">TC_01_logoFunctionality</a></td><td rowspan="1">1594393204359</td><td rowspan="1">6189</td></tr></tbody>
+</table>
+<h2>chromeBrowser</h2><h3 id="m0">com.Learning.TestCases.Imaritucs_01_CourseSelector#reportEnd</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.apache.commons.mail.EmailException: Sending the email to the following server failed : smtp.gmail.com:465
+	at org.apache.commons.mail.Email.sendMimeMessage(Email.java:1469)
+	at org.apache.commons.mail.Email.send(Email.java:1496)
+	at com.Learning.Generics.FileUtilities.sendMailReport(FileUtilities.java:151)
+	at com.Learning.Generics.Baseclass.reportEnd(Baseclass.java:145)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w1sm5852135pfq.53 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:932)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:843)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:748)
+	at javax.mail.Service.connect(Service.java:388)
+	at javax.mail.Service.connect(Service.java:246)
+	at javax.mail.Service.connect(Service.java:195)
+	at javax.mail.Transport.send0(Transport.java:254)
+	at javax.mail.Transport.send(Transport.java:124)
+	at org.apache.commons.mail.Email.sendMimeMessage(Email.java:1459)
+	... 23 more
+... Removed 20 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.Learning.TestCases.Imaritucs_01_CourseSelector#TC_02_CourseSelector</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: null
+	at com.Learning.TestCases.Imaritucs_01_CourseSelector.TC_02_CourseSelector(Imaritucs_01_CourseSelector.java:40)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+... Removed 18 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.Learning.TestCases.Imaritucs_01_CourseSelector#TC_01_logoFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

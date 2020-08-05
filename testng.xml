@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="5">
+  <test  name="chromeBrowser">
+  <parameter name="browsersNames" value="chrome"></parameter>
+    <classes>
+        <class name="com.Learning.TestCases.Imaritucs_01_CourseSelector"/>
+     <!--   <class name="com.Learning.TestCases.Imarticus_02_CIBOP_Program"/>
+      <class name="com.Learning.TestCases.Imarticus_03_CareerServices"/>-->
+    </classes>
+  </test> 
+</suite> 
